@@ -16,7 +16,7 @@ Começamos os estudos do dia 2 com um arquivo .pdf de 10 páginas onde foram abo
 
 **Scrum**
 
-Scrum é um framework para gerenciamento de projetos. Para melhor entendermos será divido em três partes.
+Scrum é um framework para gerenciamento de projetos. Para melhor entendermos será divido em duas partes.
 
 1. Papéis:
 
