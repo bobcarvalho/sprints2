@@ -25,7 +25,7 @@ Dando sequência na sprint, assistimos a um video explicativo a respeito do uso 
 Para finalizar o dia 1 temos mais um video didático, esse explicando mais precisamente como criar um arquivo readme.md para portifólio. O vídeo também traz algumas dicas de formatação, de como criar um selo para o projeto e como editar um arquivo direto do github.
 ______________________________________________________________________________________________________________________________________
 
-**Nota**
+**Nota:**
 Particularmente, gostei bastante do primeiro dia. A equipe foi bastante receptiva e os profissionais foram pacientes no momento de explicar como seria abordado o conteúdo, me senti bastante acolhido.
 
 
